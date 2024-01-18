@@ -1,5 +1,5 @@
-### Data Analytics - Gabriel Pedro
-#### About me
+# Data Analytics - Gabriel Pedro
+### About me
 
 Greetings, I'm Gabriel! I'm currently finishing my Associate Degree in Analysis and Development of Systems. This is my Data Analytics Portfolio, where I will be posting every project of mine, along with it's details to showcase my skills.
 
@@ -13,7 +13,7 @@ Greetings, I'm Gabriel! I'm currently finishing my Associate Degree in Analysis 
 
 In this section I will be putting my projects.
 
-# Netflix Movies and TV Shows
+## Netflix Movies and TV Shows
 
 **Code**: [notebook-netflix.ipynb](https://github.com/gpedro-stack/data_analysis_portfolio/blob/main/notebook-netflix.ipynb)
 
