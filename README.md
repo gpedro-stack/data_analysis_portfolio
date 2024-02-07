@@ -5,7 +5,7 @@ Greetings, I'm Gabriel! I'm currently finishing my Associate Degree in Analysis 
 
 **Skills**: Pandas / Matplotlib / Numpy / Python / Tableau / SQL
 
-**My CV**: [CV](https://github.com/gpedro-stack/data_analysis_portfolio/blob/main/Gabriel%20Pedro%2C%20Data%20Analyst.pdf)
+**My CV**: [CV](https://github.com/gpedro-stack/data_analysis_portfolio/blob/main/Gabriel%20Pedro%2C%20Data%20Analyst-3.pdf)
 
 ## Portfolio Projects
 
